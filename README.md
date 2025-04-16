@@ -1,6 +1,6 @@
 # Multi Monitors Add-On
 
-Fork of https://github.com/spin83/multi-monitors-add-on rewritten (almost) from scratch for gnome-shell version 46.
+Fork of https://github.com/spin83/multi-monitors-add-on rewritten (almost) from scratch for gnome-shell version 46 onwards.
 
 # Versions
 - Branch [master](https://github.com/lazanet/multi-monitors-add-on/tree/master) contains extension for GNOME 46
